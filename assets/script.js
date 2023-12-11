@@ -25,13 +25,3 @@ console.log('Here are the topics we learned through Prework:');
 listTopics();
 console.log('Which topic should we study first?');
 selectTopic();
-
-/*
-var shapes = ["triangle", "square", "pentagon", "circle"];
-for(var x = 0; x < shapes.length; x++) {
- console.log(shapes[x]);
-}
-
-var shapes = ["triangle", "square", "pentagon", "circle"];
-console.log(shapes[0]);
-*/
